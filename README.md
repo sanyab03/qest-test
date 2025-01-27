@@ -1,5 +1,5 @@
 Text Editor Interface
-A minimal yet functional text editor interface built with React.js/Next.js, designed to replicate a given UI and implement core interactive features.
+A minimal yet functional text editor interface built with React.js, designed to replicate a given UI and implement core interactive features.
 
 This project demonstrates frontend development skills, focusing on responsive design, dynamic UI interactions, and clean code structure.
 
@@ -22,3 +22,8 @@ Dynamic design adjusts based on the selected device mode.
 🛠️ Tech Stack
 React.js – For building and optimizing the frontend interface.
 Tailwind CSS – For styling and responsive design.
+
+Contact
+Sanya Bansal
+✉️ Email: sanya.bansal.bbb@gmail.com
+💼 LinkedIn: linkedin.com/in/sanya-bansal
